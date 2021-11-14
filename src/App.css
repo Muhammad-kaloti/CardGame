@@ -1,0 +1,20 @@
+.App {
+  height: 100%;
+	background-color: rgb(144, 201, 182);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	border: 2px solid red;
+}
+.card{
+  width: 100px;
+  height: 150px;
+  background-color: rgb(202, 49, 49);
+  border: 2px solid black;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+	align-items: center;
+  font-size: 3em;
+}
